@@ -1,3 +1,3 @@
-# owls
+# Owls
 
-Projet de site pour le cours PHP
+Projet de site sur les chouettes pour le cours PHP
