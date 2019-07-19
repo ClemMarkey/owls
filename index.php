@@ -17,7 +17,7 @@
                         <p class="card-title grey-text text-darken-4" style="text-align: center;">Les chouettes sont un peu comme des chats avec leurs gros yeux et leur instinct prédateur. <br> <br> Ce sont des oiseaux majestueux dont la beauté cache une véritable machine à tuer.</p>
                     </div>
                     <div class="card-action">
-                        <a href="galerie.php">Voir la gallerie</a>
+                        <a href="gallery.php">Voir la galerie</a>
                         <a href="contact.php">Me contacter</a>
                     </div>
                 </div>
