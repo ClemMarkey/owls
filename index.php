@@ -1,30 +1,33 @@
-<!DOCTYPE html>
-<html lang="fr">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Les Chouettes</title>
-</head>
-
-<body>
+<?php include'inc/header.php' ?>
     <!-- INC HEADER PHP -->
 
     <main>
-        <h1>Les Chouettes</h1>
-        <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet doloremque dolorem quae eaque necessitatibus qui quis libero, ipsam molestias numquam possimus sequi. Quia quisquam saepe quis ullam perspiciatis, modi vitae.
-        </p>
+
+        <div class="container row" style="margin-top: 10vh;">
+
+        <div class="m2"></div>
+        
+        <div class="col s12 m10">
+            <div class="card sticky-action">
+                <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="img/ui/chouette.jpg">
+                        <span class="card-title">La Chouette</span>
+                    </div>
+                    <div class="card-reveal">
+                        <p class="card-title grey-text text-darken-4" style="text-align: center;">Les chouettes sont un peu comme des chats avec leurs gros yeux et leur instinct prédateur. <br> <br> Ce sont des oiseaux majestueux dont la beauté cache une véritable machine à tuer.</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="galerie.php">Voir la gallerie</a>
+                        <a href="contact.php">Me contacter</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="m2"></div>
+
+        </div>
+
     </main>
 
     <!-- INC FOOTER PHP -->
-
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-</body>
-
-</html>
+<?php include'inc/footer.php' ?>

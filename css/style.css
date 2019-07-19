@@ -1,0 +1,9 @@
+#logo {
+    height: 50px;
+    margin-left: .5vw;
+    margin-top: .5vh;
+}
+
+li a {
+    text-transform: capitalize;
+}
