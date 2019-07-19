@@ -5,12 +5,11 @@
 
         <div class="container row" style="margin-top: 10vh;">
 
-        <div class="m2"></div>
         
-        <div class="col s12 m10">
+        <div class="col s12 offset-m3 m6">
             <div class="card sticky-action">
                 <div class="card-image waves-effect waves-block waves-light">
-                    <img class="activator" src="img/ui/chouette.jpg">
+                    <img id="chouchou" class="activator" src="img/ui/chouette.jpg">
                         <span class="card-title">La Chouette</span>
                     </div>
                     <div class="card-reveal">
@@ -23,7 +22,6 @@
                 </div>
             </div>
             
-            <div class="m2"></div>
 
         </div>
 

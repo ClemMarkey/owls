@@ -12,7 +12,7 @@
     <title>La Chouette</title>
 </head>
 
-<body>
+<body class="orange lighten-5">
 
     <nav class="orange">
         <div class="nav-wrapper">
