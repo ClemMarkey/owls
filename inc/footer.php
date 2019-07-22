@@ -3,7 +3,7 @@
 
     </div>
     <div class="footer-copyright">
-            <span>© 2019 Copyright Clément Markey</span>
+            <span>© <?= date('Y')?> Copyright Clément Markey</span>
 </footer>
 
 

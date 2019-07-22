@@ -16,7 +16,7 @@
 
     <nav class="orange">
         <div class="nav-wrapper">
-            <a href="index.php"><img class="brand-logo" src="img/ui/owl.png" alt="Logo chouette" id="logo"></a>
+            <a href="index.php"><img class="brand-logo" src="img/ui/barn_owl.png" alt="Logo chouette" id="logo"></a>
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
                 <?php include 'PHP/nav.php' ?>
